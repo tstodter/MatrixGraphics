@@ -1,0 +1,19 @@
+/*
+CMPSC 457
+Name: Travis Stodter
+Email: tms5274@psu.edu
+Date: Mar. 27, 2013
+Problem: HW4
+*/
+
+To compile and run:
+	make template
+	make run
+
+
+My program runs for all obvious test cases. No tested input causes a crash.
+
+The user interface runs as per the specification in the handout.
+Be advised that camera rotation, as specified in the extra features section,
+is non-functional, and could not be accomplished. I would appreciate, if it can
+be provided, some insight into my error.
